@@ -1,0 +1,9 @@
+1 = Name: Ethernet Packet Format: Ether Source MAC Address: 52:f7:e8:4d:f6:b0 Destination MAC Address: 7c:c2:c6:25:5a:07    Source Port: 443    Destination Port: 59448
+2 = Name: Ethernet Packet Format: Ether Source MAC Address: 7c:c2:c6:25:5a:07 Destination MAC Address: 52:f7:e8:4d:f6:b0    Source Port: 59510    Destination Port: 443
+3 = Name: Ethernet Packet Format: Ether Source MAC Address: 7c:c2:c6:25:5a:07 Destination MAC Address: 52:f7:e8:4d:f6:b0    Source Port: 59448    Destination Port: 443
+4 = Name: Ethernet Packet Format: Ether Source Address: 15.197.213.252 Destination Address: 192.168.43.138    Source Port: 443    Destination Port: 59613
+5 = Name: Ethernet Packet Format: Ether Source Address: 192.168.43.138 Destination Address: 15.197.213.252    Source Port: 59613    Destination Port: 443
+6 = Name: Ethernet Packet Format: Ether Source MAC Address: 7c:c2:c6:25:5a:07 Destination MAC Address: 52:f7:e8:4d:f6:b0    Source Port: 59510    Destination Port: 443
+7 = Name: Ethernet Packet Format: Ether Source MAC Address: 7c:c2:c6:25:5a:07 Destination MAC Address: 52:f7:e8:4d:f6:b0    Source Port: 59466    Destination Port: 443
+8 = Name: Ethernet Packet Format: Ether Source MAC Address: 52:f7:e8:4d:f6:b0 Destination MAC Address: 7c:c2:c6:25:5a:07    Source Port: 443    Destination Port: 59510
+9 = Name: Ethernet Packet Format: Ether Source MAC Address: 52:f7:e8:4d:f6:b0 Destination MAC Address: 7c:c2:c6:25:5a:07    Source Port: 443    Destination Port: 59448
